@@ -2,6 +2,8 @@ html {
   scroll-behavior: smooth;
 }
 
+/* начало шапки */
+
 .header {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
@@ -58,6 +60,8 @@ html {
 .address address {
   font-style: normal;
 }
+
+/* конец шапки */
 
 /* начало входной секции */
 
