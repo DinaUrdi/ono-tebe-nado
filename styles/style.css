@@ -51,16 +51,13 @@ html {
   font-size: 18px;
   line-height: 24.3px;
   letter-spacing: 0.01em;
+  font-style: normal;
 }
 
 .header__address {
   justify-self: end;
   align-self: center;
   padding-right: 35px;
-}
-
-.address p {
-  font-style: normal;
 }
 
 /* конец шапки */
@@ -193,7 +190,6 @@ html {
 
 .card {
   position: relative;
-  z-index: -1;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
