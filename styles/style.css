@@ -49,9 +49,9 @@ html {
   flex-direction: column;
   font-weight: 400;
   font-size: 18px;
+  font-style: normal;
   line-height: 24.3px;
   letter-spacing: 0.01em;
-  font-style: normal;
 }
 
 .header__address {
